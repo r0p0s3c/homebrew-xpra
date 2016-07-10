@@ -34,7 +34,7 @@ class Xpra < Formula
 
   resource 'cython' do
     url 'https://github.com/cython/cython/archive/0.24.tar.gz'
-    sha256 'a84d2dfdb27a48eb8672230318960701169679a7'
+    sha256 'b60b91f1ec88921a423d5f0a5e2a7c232cdff12d9130088014bf89d542ce137b'
   end
 
   def install
